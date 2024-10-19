@@ -1,0 +1,21 @@
+body{
+    background: black;
+}
+section{
+    color: white;
+    padding: 1vw;
+    border: 1vw solid powderblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+}
+h1{
+    color:darkslategray;
+}
+header{
+    color: white;
+    text-align: center;
+}
+
+#calculator {
+    color: white;
+}
